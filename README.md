@@ -1,10 +1,17 @@
 === Upload Security ===
+
 Contributors: saha96
+
 Tags: uploads, security
+
 Requires at least: 3.5
+
 Tested up to: 4.7
+
 Stable tag: 4.7
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin helps secure uploads by preventing unauthorized users from accessing your upload directory and stealing its content.
